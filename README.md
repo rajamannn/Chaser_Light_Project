@@ -20,6 +20,9 @@ This Arduino project demonstrates multiple LED blink sequences using digital pin
 2. Upload the Arduino code from the repository to the board.
 3. Observe the LED patterns in action.
 
+## Project Image 🖼️
+An image of the circuit/setup has been attached in this repository.
+
 ## Notes
 - All code files are available in this repository.
 - LED blink speed can be adjusted by modifying the delay value in the code.
